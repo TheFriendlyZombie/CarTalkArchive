@@ -1,5 +1,5 @@
 <rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-<channel></description>
+<channel>
 <title>Archive of The Best of Car Talk</title>
 <link>http://www.cartalk.com</link>
 <description>
@@ -26,12 +26,11 @@
 <itunes:type>episodic</itunes:type>
 <media:restriction type="country" relationship="allow">es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt hk sg my tr gr ar tw hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo ph id jp th vn ro il za in</media:restriction>
 <image>
-<url>https://media.npr.org/images/podcasts/primary/icon_510208-1355b17f00857a9953a393bbdbf121a7c1c6bef3.jpg?s=1400</url></description>
+<url>https://media.npr.org/images/podcasts/primary/icon_510208-1355b17f00857a9953a393bbdbf121a7c1c6bef3.jpg?s=1400</url>
 <title>The Best of Car Talk</title>
 <link>http://www.cartalk.com</link>
 </image>
 <lastBuildDate>Tue, 09 Aug 2022 08:00:40 -0400</lastBuildDate>
-
 <item>  
 <pubDate>2022-06-28 19:08:00 -0400</pubDate>
 <description>Mary from Illinois has been offered a company car by her employer . She can have either the reliable Mercury Sable, a sporty Jeep Cherokee or the vehicle of choice for seniors: the Chrysler New Yorker. Tom and Ray want to understand as much as possible before advising Mary and that leads to some unexpected answers on this episode of the Best of Car Talk.</description>
